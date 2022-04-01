@@ -11,3 +11,7 @@ body{
 table{
     cellspacing:5px;
 }
+
+hr{
+    border-style: dotted;
+}
